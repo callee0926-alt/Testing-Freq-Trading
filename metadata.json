@@ -1,0 +1,6 @@
+{
+  "name": "Freqtrade Studio & Trading Bot Simulator",
+  "description": "Complete workbench, strategy backtester, config generator, and management cockpit for the Freqtrade algorithmic crypto trading bot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
